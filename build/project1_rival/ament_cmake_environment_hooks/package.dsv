@@ -1,0 +1,4 @@
+source;share/project1_rival/local_setup.bash
+source;share/project1_rival/local_setup.dsv
+source;share/project1_rival/local_setup.sh
+source;share/project1_rival/local_setup.zsh

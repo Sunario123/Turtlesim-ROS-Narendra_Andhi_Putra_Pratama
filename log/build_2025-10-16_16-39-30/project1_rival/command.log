@@ -1,0 +1,4 @@
+Invoking command in '/home/narendraandhi/project1_ROS/build/project1_rival': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/narendraandhi/project1_ROS/build/project1_rival -- -j16 -l16
+Invoked command in '/home/narendraandhi/project1_ROS/build/project1_rival' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/narendraandhi/project1_ROS/build/project1_rival -- -j16 -l16
+Invoking command in '/home/narendraandhi/project1_ROS/build/project1_rival': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/narendraandhi/project1_ROS/build/project1_rival
+Invoked command in '/home/narendraandhi/project1_ROS/build/project1_rival' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/narendraandhi/project1_ROS/build/project1_rival

@@ -1,0 +1,10 @@
+[0.009s] Invoking command in '/home/narendraandhi/project1_ROS/build/project1_rival': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/narendraandhi/project1_ROS/build/project1_rival -- -j16 -l16
+[0.057s] [ 50%] [32mBuilding CXX object CMakeFiles/move_turtle.dir/src/move_turtle.cpp.o[0m
+[0.205s] [01m[K/home/narendraandhi/project1_ROS/src/project1_rival/src/move_turtle.cpp:4:10:[m[K [01;31m[Kfatal error: [m[Kturtlesim/srv/empty.hpp: No such file or directory
+[0.205s]     4 | #include [01;31m[K"turtlesim/srv/empty.hpp"[m[K
+[0.205s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.205s] compilation terminated.
+[0.215s] gmake[2]: *** [CMakeFiles/move_turtle.dir/build.make:76: CMakeFiles/move_turtle.dir/src/move_turtle.cpp.o] Error 1
+[0.215s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/move_turtle.dir/all] Error 2
+[0.215s] gmake: *** [Makefile:146: all] Error 2
+[0.217s] Invoked command in '/home/narendraandhi/project1_ROS/build/project1_rival' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/narendraandhi/project1_ROS/build/project1_rival -- -j16 -l16
